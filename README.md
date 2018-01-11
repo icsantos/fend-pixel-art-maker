@@ -2,15 +2,22 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Overview](#overview)
 * [Contributing](#contributing)
 
-## Instructions
+## Overview
 
-To get started, open `designs.js` and start building out the app's functionality.
+The objective of this project is to build a single-page web app that allows users to draw pixel art on a customizable canvas.  The users will be able to:
+1.  Dynamically set the size of the table as an _N_ by _M_ grid.
+2.  Choose a color.
+3.  Click a cell in the grid to fill that cell with the chosen color.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+This project exercises the following front-end programming skills:
+-   Defining variables with `const` and `let`
+-   Accessing the DOM using methods of the `document` object
+-   Declaring functions and attaching them to DOM objects as event listeners
+-   Writing nested loops and using loop variables
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This repository is for a project for the Front-End Web Developer NanoDegree program at Udacity. Therefore, pull requests will not be accepted.
